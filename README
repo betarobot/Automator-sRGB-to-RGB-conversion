@@ -1,5 +1,5 @@
-Simple enough OSX Automator workflow to mass convert image color profile to post images on the web without loosing color. 
+Simple enough OSX Automator workflow to mass convert image color profile from sRGB to RGB. This will help to post images on the web without loosing original color.
 
-More info at: 
+More info and the problem description: http://andreys.info/blog/2010-04-13/fix-wrong-color-in-your-web-images
 
 Released under GPL.
